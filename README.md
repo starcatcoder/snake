@@ -1,1 +1,1 @@
-![Snake animation](https://raw.githubusercontent.com/starcatcoder/snake/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/starcatcoder/snake/blob/output/github-contribution-grid-snake.svg)
