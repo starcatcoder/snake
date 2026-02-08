@@ -17,6 +17,7 @@ jobs:
           github_user_name: starcatcoder
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
